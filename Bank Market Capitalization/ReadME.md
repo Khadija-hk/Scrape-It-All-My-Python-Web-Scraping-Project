@@ -1,4 +1,4 @@
-# ETL Operations on Country-GDP Data
+# ETL Operations on Bank-GDP Data
 
 ## What's This Project About?
 Dive into the world of ETL (Extract, Transform, Load) operations where we will be pulling data about the largest banks from a website, transforming that data into something more useful, and then saving it to both a CSV file and a database. Plus, we throw in some cool SQL queries to see the data in action!
